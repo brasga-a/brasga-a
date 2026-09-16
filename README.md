@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm @brasga-a 👋
 
-<!--
-**brasga-a/brasga-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full-stack and backend projects, with a strong focus on TypeScript and Rust.
 
-Here are some ideas to get you started:
+### 🚀 Featured repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**context**](https://github.com/brasga-a/context) — Rust project and currently the most starred repository in my profile.
+- [**image**](https://github.com/brasga-a/image) — A fast image-sharing API built with Rust + Axum.
+- [**nimbo-backend**](https://github.com/brasga-a/nimbo-backend) — TypeScript backend service for Nimbo.
+- [**patinho**](https://github.com/brasga-a/patinho) — TypeScript application project.
+- [**task-manager**](https://github.com/brasga-a/task-manager) — A simple task manager built with Python + Flask.
+- [**cubico**](https://github.com/brasga-a/cubico) — Astro-based web project.
+
+### 🧰 Main stack
+
+`TypeScript` · `Rust` · `Python` · `Astro` · `Flask` · `Axum`
